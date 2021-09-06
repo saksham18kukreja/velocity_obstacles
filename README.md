@@ -2,7 +2,7 @@
 a path planner based on generalized velocity obstacle model
 link of paper for reference (http://gamma.cs.unc.edu/NHRVO/WilkieIROS09.pdf)
 
-<img src="https://github.com/saksham18kukreja/velocity_obsacles/blob/main/path_planner.gif" width="800" height="600" />
+<img src="https://github.com/saksham18kukreja/velocity_obsacles/blob/main/path_planner.gif" width="600" height="450" />
 
 
 
