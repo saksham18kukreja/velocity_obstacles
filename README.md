@@ -4,6 +4,9 @@ link of paper for reference (http://gamma.cs.unc.edu/NHRVO/WilkieIROS09.pdf)
 
 <img src="https://github.com/saksham18kukreja/velocity_obsacles/blob/main/path_planner.gif" width="600" height="450" />
 
+## Dependencies
+1. Numpy
+2. Pygame
 
 
 
