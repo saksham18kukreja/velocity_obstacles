@@ -183,9 +183,8 @@ def main():
         
 
 if __name__ == '__main__':
-    # try:
-    #     print("STARTED")
-    #     main()
-    # except:
-    #     print("OOPS! Error with the program!")
-    main()
+    try:
+        print("STARTED")
+        main()
+    except:
+        print("OOPS! Error with the program!")
