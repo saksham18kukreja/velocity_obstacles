@@ -1,4 +1,4 @@
-# velocity_obsacles
+# velocity_obstacles
 a path planner based on generalized velocity obstacle model, 
 link of paper for reference (http://gamma.cs.unc.edu/NHRVO/WilkieIROS09.pdf)
 
